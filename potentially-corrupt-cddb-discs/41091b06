@@ -1,0 +1,35 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	21300
+#	37912
+#	56600
+#	72107
+#	90305
+#
+# Disc length: 2333 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.50
+#
+DISCID=41091b06
+DTITLE=Iron Butterfly / Iron Butterfly Live
+DYEAR=1970
+DGENRE=Rock
+TTITLE0=In the Time of Our Lives
+TTITLE1=Filled With Fear
+TTITLE2=Soul Experience
+TTITLE3=You Can't Win
+TTITLE4=Are You Happy
+TTITLE5=In-A-Gadda-Da-Vida
+EXTD= YEAR: 1970
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+PLAYORDER=
+.

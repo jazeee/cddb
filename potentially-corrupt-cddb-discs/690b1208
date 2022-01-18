@@ -1,0 +1,41 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	11327
+#	28460
+#	63695
+#	100140
+#	131452
+#	154660
+#	191112
+#
+# Disc length: 2836 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=690b1208
+DTITLE=Gilda Radner / LIVE from NEW YORK
+DYEAR=1979
+DGENRE=Comedy
+TTITLE0=Let's Talk Dirty To The Animals
+TTITLE1=The Audition/I Love To Be Unhappy
+TTITLE2=Don Kirshner/ Rhonda Weiss Introduction/ Goodbye Saccharine
+TTITLE3=Lisa Loopner Piano Recital:"The Way We Were"
+TTITLE4=If You Look Close/ Gimme Mick
+TTITLE5=Emily Litella
+TTITLE6=Roseanne Roseannadanna
+TTITLE7=Honey (Touch Me With My Clothes On)
+EXTD= YEAR: 1979 ID3G: 57
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=
+.

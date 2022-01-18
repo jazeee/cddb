@@ -1,0 +1,47 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	19330
+#	42252
+#	57100
+#	80837
+#	107312
+#	127502
+#	141472
+#	160945
+#	175885
+#
+# Disc length: 2617 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.24
+#
+DISCID=7c0a370a
+DTITLE=Björk / Homogenic
+DYEAR=1997
+DGENRE=Avantgarde
+TTITLE0=Hunter
+TTITLE1=Jóga
+TTITLE2=Unravel
+TTITLE3=Bachelorette
+TTITLE4=All Neon Like
+TTITLE5=5 Years
+TTITLE6=Immature
+TTITLE7=Alarm Call
+TTITLE8=Pluto
+TTITLE9=All Is Full of Love
+EXTD= YEAR: 1997
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=
+.

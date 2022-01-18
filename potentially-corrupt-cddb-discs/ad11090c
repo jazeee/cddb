@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+#	183
+#	20328
+#	43148
+#	88833
+#	115660
+#	142475
+#	160518
+#	181888
+#	210540
+#	242035
+#	269465
+#	294595
+#
+# Disc length: 4363 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: EasyCD 2.21
+#
+DISCID=ad11090c
+DTITLE=Deep Purple / The best of 
+DYEAR=
+DGENRE=
+TTITLE0=Hush
+TTITLE1=Lalena
+TTITLE2=River deep - Mountain high
+TTITLE3=Help
+TTITLE4=The shield
+TTITLE5=Listen, learn, read on
+TTITLE6=Kentucky woman
+TTITLE7=Anthem
+TTITLE8=Hey Joe
+TTITLE9=Mandrake root
+TTITLE10=Bird has flown
+TTITLE11=I'm so glad
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=
+.
