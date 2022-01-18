@@ -1,0 +1,56 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	17461
+#	39516
+#	56220
+#	74771
+#	92305
+#	115413
+#	135817
+#	150384
+#	166667
+#	181093
+#	193849
+#	226815
+#
+# Disc length: 3696 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=990e6e0d
+DTITLE=Los Lobos / Good Morning Aztlán
+DYEAR=2002
+DGENRE=Pop
+TTITLE0=Done Gone Blue
+TTITLE1=Hearts Of Stone
+TTITLE2=Luz De Mi Vida
+TTITLE3=Good Morning Aztlán
+TTITLE4=The Big Ranch
+TTITLE5=The Word
+TTITLE6=Malaqué
+TTITLE7=Tony Y Maria
+TTITLE8=Get To This
+TTITLE9=Maria Christina
+TTITLE10=What In The World
+TTITLE11=Round & Round
+TTITLE12=Data Track
+EXTD= YEAR: 2002
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=
+.

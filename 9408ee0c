@@ -1,0 +1,54 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11822
+#	27205
+#	42145
+#	53730
+#	70242
+#	92192
+#	105967
+#	120822
+#	133930
+#	143105
+#	158630
+#
+# Disc length: 2288 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30Release
+#
+DISCID=9408ee0c
+DTITLE=Various / Let's Dance
+DYEAR=
+DGENRE=Big Band
+TTITLE0=Let' Dance - Benny Goodman
+TTITLE1=Moonlight Serenade - Glenn Miller
+TTITLE2=Woodchopper's Ball - Woody Herman
+TTITLE3=Ciribiribin - Harry James
+TTITLE4=I'm Getting Sentimental Over You - Tommy Dorsey
+TTITLE5=I Can't Get Started - Bunny Berigan
+TTITLE6=One O'Clock Jump - Count Basie
+TTITLE7=Artistry in Rhythm - Stan Kenton
+TTITLE8=Nightmare - Artie Shaw
+TTITLE9=Leap Frog - Les Brown
+TTITLE10=Cherokee - Charlie Barnet
+TTITLE11=Take the A Train - Duke Ellington
+EXTD= ID3G:  96
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=
+.

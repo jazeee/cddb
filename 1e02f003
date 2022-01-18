@@ -1,0 +1,26 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	21130
+#	35057
+#
+# Disc length: 754 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=1e02f003
+DTITLE=Nirvana / Smells Like Teen Spirit
+DYEAR=1991
+DGENRE=Grunge
+TTITLE0=Smells Like Teen Spirit
+TTITLE1=Even In His Youth
+TTITLE2=Aneurysm
+EXTD= YEAR: 1991
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=
+.

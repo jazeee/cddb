@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright 1993-1996 (C) Ti Kan
+#
+# Track frame offsets:
+#    150
+#    24717
+#    48915
+#    70232
+#    107002
+#    114422
+#    123795
+#    150617
+#    161955
+#    181542
+#    243017
+#
+# Disc length: 3418 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: MyCDplayer 2.3.9a  (wjohn@fix.net)
+#
+DISCID=810d580b
+DTITLE=Arlo Guthrie and Pete Seeger / More Together Again in Concert (Disc 2)
+DYEAR=
+DGENRE=
+TTITLE0=De Colores
+TTITLE1=Solo le Pido a Dios
+TTITLE2=Wake Up Dead
+TTITLE3=Gabriel's Mother's Highway Ballad - 16 Blues
+TTITLE4=The Hills of Glenshee
+TTITLE5=A Little A This N That
+TTITLE6=City of New Orleans
+TTITLE7=Jacob's Ladder
+TTITLE8=Wimoweh (Mbube)
+TTITLE9=Amazing Grace
+TTITLE10=This Land is Your Land
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=
+.

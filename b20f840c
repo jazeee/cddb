@@ -1,0 +1,53 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	54742
+#	115030
+#	130982
+#	151885
+#	167657
+#	195397
+#	222602
+#	237420
+#	253532
+#	261407
+#	276952
+#
+# Disc length: 3974 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=b20f840c
+DTITLE=Various Performers / Classical Treasures: Classical Favorites
+DYEAR=1993
+DGENRE=Classical
+TTITLE0=Rossini - William Tell: Overture
+TTITLE1=Beethoven - Symphony No. 6 in F Major op. 68 "Pastoral Symphony": Andante molto mosso
+TTITLE2=Mozart - Turkish March
+TTITLE3=Chopin - Nocturne in E Flat Major No. 2
+TTITLE4=Bach - Prelude and Fugue in C Minor BWV 847
+TTITLE5=Verdi - Triumphmarch from Aida
+TTITLE6=Beethoven - Moonlight Sonata (Adagio sostenuto) in C Sharp Minor op. 27/2
+TTITLE7=Offenbach - Barcarole (The Tales of Hoffman)
+TTITLE8=Vivaldi - Winter - From the Four Seasons: Allegro non molto
+TTITLE9=Vivaldi - Winter - From the Four Seasons: Largo
+TTITLE10=Vivaldi - Winter - From the Four Seasons: Allegro
+TTITLE11=Pachelbel - Canon in D Major 12. for string orchestra
+EXTD= YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=
+.

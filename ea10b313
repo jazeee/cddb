@@ -1,0 +1,74 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	22575
+#	38100
+#	49500
+#	65550
+#	83925
+#	92700
+#	116475
+#	143100
+#	152775
+#	171975
+#	189750
+#	202575
+#	228075
+#	241875
+#	265800
+#	281625
+#	294300
+#	308250
+#
+# Disc length: 4277 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=ea10b313
+DTITLE=English Symphony Orchestra, William Boughton - English Symphony Orchestra / J.C. Bach Six Grand Overtures, Op. 18
+DYEAR=
+DGENRE=
+TTITLE0=Overture No. 1 in E flat major for double orchestra, Spiritoso
+TTITLE1=Overture No. 1 in E flat major for double orchestra, Andante
+TTITLE2=Overture No. 1 in E flat major for double orchestra, Allegro
+TTITLE3=Overture No. 2 in B flat major for single orchestra, Allegro assai
+TTITLE4=Overture No. 2 in B flat major for single orchestra, Andante
+TTITLE5=Overture No. 2 in B flat major for single orchestra, Presto
+TTITLE6=Overture No. 3 in D major for double orchestra, Allegro
+TTITLE7=Overture No. 3 in D major for double orchestra, Andante
+TTITLE8=Overture No. 3 in D major for double orchestra, Allegro assai
+TTITLE9=Overture No. 4 in D major for single orchestra, Allegro con spirito
+TTITLE10=Overture No. 4 in D major for single orchestra, Andante
+TTITLE11=Overture No. 4 in D major for single orchestra, Presto
+TTITLE12=Overture No. 5 in E major for double orchestra, (Allegro)
+TTITLE13=Overture No. 5 in E major for double orchestra, Andante
+TTITLE14=Overture No. 5 in E major for double orchestra, Tempo di Minuetto
+TTITLE15=Overture No. 6 in D major for single orchestra, Allegro
+TTITLE16=Overture No. 6 in D major for single orchestra, Andante
+TTITLE17=Overture No. 6 in D major for single orchestra, Allegretto
+TTITLE18=Overture No. 6 in D major for single orchestra, Allegro
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=\n
+EXTT3=(Originally, overture to Lucio Silla - \nMannheim 1774)\n
+EXTT4=(Originally, overture to Lucio Silla - \nMannheim 1774)\n
+EXTT5=(Originally, overture to Lucio Silla - \nMannheim 1774)\n
+EXTT6=(Originally, overture to Endimione - \nLondon 1772)\n
+EXTT7=(Originally, overture to Endimione - \nLondon 1772)\n
+EXTT8=(Originally, overture to Endimione - \nLondon 1772)\n
+EXTT9=(1st and 3rd movements from overture to \nTemistocle - Mannheim 1772)\
+EXTT10=(1st and 3rd movements from overture to \nTemistocle - Mannheim 1772)\n
+EXTT11=(1st and 3rd movements from overture to \nTemistocle - Mannheim 1772)\n
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=(Originally from Amadis de Gaule - Paris \n1779)\n
+EXTT16=(Originally from Amadis de Gaule - Paris \n1779)\n
+EXTT17=(Originally from Amadis de Gaule - Paris \n1779)\n
+EXTT18=(Originally from Amadis de Gaule - Paris \n1779)\n
+PLAYORDER=
+.

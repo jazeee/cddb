@@ -1,0 +1,53 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	26605
+#	54593
+#	80350
+#	98898
+#	136208
+#	151545
+#	172413
+#	195000
+#	208590
+#	229478
+#	240525
+#
+# Disc length: 3600 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=940e0e0c
+DTITLE=Alan Parsons / Try Anything Once
+DYEAR=1993
+DGENRE=Progressive Rock
+TTITLE0=The Three Of Me
+TTITLE1=Turn It Up
+TTITLE2=Wine From The Water
+TTITLE3=Breakaway
+TTITLE4=Mr. Time
+TTITLE5=Jigue
+TTITLE6=I'm Talkin' To You
+TTITLE7=Siren Song
+TTITLE8=Dreamscape
+TTITLE9=Back Against The Wall
+TTITLE10=Re-Jigue
+TTITLE11=Oh Life (There Must Be More)
+EXTD= YEAR: 1993
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=
+.

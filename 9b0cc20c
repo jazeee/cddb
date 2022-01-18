@@ -1,0 +1,54 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	25007
+#	47950
+#	65270
+#	86862
+#	104322
+#	122255
+#	140632
+#	153495
+#	170470
+#	200145
+#	225215
+#
+# Disc length: 3268 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta5
+#
+DISCID=9b0cc20c
+DTITLE=Duran Duran / Thank You
+DYEAR=1995
+DGENRE=Rock
+TTITLE0=White Lines
+TTITLE1=I Wanna Take You Higher
+TTITLE2=Perfect Day
+TTITLE3=Watching The Detectives
+TTITLE4=Lay Lady Lay
+TTITLE5=911 Is A Joke
+TTITLE6=Success
+TTITLE7=Crystal Ship
+TTITLE8=Ball Of Confusion
+TTITLE9=Thank You
+TTITLE10=Drive By
+TTITLE11=I Wanna Take You Higher Again
+EXTD=Capitol\nYear: 1995\nCatalog Number: CDP 7243 8 29419 2 7\n YEAR: 1995 
+EXTD=ID3G:  17
+EXTT0=Grandmaster Flash and Melle Mel
+EXTT1=Sly and the Family Stone
+EXTT2=Lou Reed
+EXTT3=Elvis Costello
+EXTT4=Bob Dylan
+EXTT5=Public Enemy
+EXTT6=Iggy Pop
+EXTT7=The Doors
+EXTT8=The Temptations
+EXTT9=Led Zepplin
+EXTT10=Duran Duran
+EXTT11=Sly and the Family Stone
+PLAYORDER=
+.

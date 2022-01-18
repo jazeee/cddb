@@ -1,0 +1,53 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	27155
+#	48855
+#	76807
+#	103490
+#	133777
+#	151875
+#	167472
+#	187220
+#	204375
+#	237775
+#	255492
+#
+# Disc length: 3626 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=960e280c
+DTITLE=Joe Satriani / Joe Satriani
+DYEAR=1995
+DGENRE=Instrumental Rock
+TTITLE0=Cool Number 9
+TTITLE1=If
+TTITLE2=Down, Down, Down
+TTITLE3=Luminous Flesh Giants
+TTITLE4=S.M.F.
+TTITLE5=Look My Way
+TTITLE6=Home
+TTITLE7=Moroccan Sunset
+TTITLE8=Killer Bee Bop
+TTITLE9=Slow Down Blues
+TTITLE10=(You're) My World
+TTITLE11=Sittin' 'Round
+EXTD= YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=
+.

@@ -1,0 +1,62 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	25552
+#	38220
+#	53867
+#	127505
+#	149310
+#	171840
+#	188922
+#	204990
+#	221217
+#	237782
+#	263550
+#	278632
+#	299100
+#	325135
+#
+# Disc length: 4673 seconds
+#
+# Revision: 5
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=da123f0f
+DTITLE=Grateful Dead / The Arista Years (Disc-1)
+DYEAR=1996
+DGENRE=Rock
+TTITLE0=Estimated Prophet
+TTITLE1=Passenger
+TTITLE2=Samson & Deliliah
+TTITLE3=Terrapin Station: Lady With A Fan / Terrapin Station / Terrapin / Terrapin Transit / At A Siding / Terrapin Flyer / Refrain
+TTITLE4=Good Lovin'
+TTITLE5=Shakedown Street
+TTITLE6=Fire On The Mountain
+TTITLE7=I Need A Miracle
+TTITLE8=Alabama Getaway
+TTITLE9=Far From Me
+TTITLE10=Saint Of Circumstance
+TTITLE11=Dire Wolf (Live)
+TTITLE12=Cassidy (Live)
+TTITLE13=Feel Like A Stranger (Live)
+TTITLE14=Franklin's Tower (Live)
+EXTD= YEAR: 1996
+EXTT0=TERRAPIN STATION
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=SHAKEDOWN STREET
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=GO TO HEAVEN
+EXTT9=
+EXTT10=
+EXTT11=RECKONING (LIVE)
+EXTT12=
+EXTT13=DEAT SET (LIVE)
+EXTT14=
+PLAYORDER=
+.

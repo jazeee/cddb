@@ -1,0 +1,41 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	21527
+#	42807
+#	59495
+#	74637
+#	99145
+#	121520
+#	142237
+#
+# Disc length: 2121 seconds
+#
+# Revision: 40
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=71084708,74084708,76084708,77084e08,7e083508
+DTITLE=U2 / Under A Blood Red Sky
+DYEAR=1983
+DGENRE=Opera
+TTITLE0=Gloria
+TTITLE1=11 O'Clock Tick Tock
+TTITLE2=I Will Follow
+TTITLE3=Party Girl
+TTITLE4=Sunday Bloody Sunday
+TTITLE5=The Electric Co.
+TTITLE6=New Year's Day
+TTITLE7="40"
+EXTD= YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=
+.

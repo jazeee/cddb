@@ -1,0 +1,59 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	187
+#	21107
+#	36800
+#	55630
+#	80150
+#	96465
+#	109960
+#	129342
+#	148570
+#	171402
+#	187135
+#	210830
+#	224445
+#	240502
+#
+# Disc length: 3444 seconds
+#
+# Revision: 3
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.77
+#
+DISCID=c90d720e
+DTITLE=Andrew Lloyd Webber / The Premiere Collection: The Best of Andrew Lloyd Webber - The Original Recordings
+DYEAR=1988
+DGENRE=Broadway
+TTITLE0=Steve Harley & Sarah Brightman / Phantom of the Opera
+TTITLE1=Marti Webb / Take That Look Off Your Face
+TTITLE2=Cliff Richard & Sarah Brightman / All I Ask of You
+TTITLE3=Julie Covington / Don't Cry for Me Argentina
+TTITLE4=Paul Nicholas / Magical Mr. Mistoffeles
+TTITLE5=Julian Llyod Webber / Variations 1-4
+TTITLE6=Murray Head / Superstar
+TTITLE7=Elaine Page / Memory
+TTITLE8=Ray Shell / Starlight Express
+TTITLE9=Marti Webb / Tell Me on a Sunday
+TTITLE10=Michael Crawford / The Music of the Night
+TTITLE11=Barbara Dickson / Another Suitcase in Another Hall
+TTITLE12=Yvonne Elliman / I Don't Know How to Love Him
+TTITLE13=Sarah Brightman & Paul Kingston / Pie Jesu
+EXTD=artist singing each track noted, years, and comments say where each track is from YEAR: 1988
+EXTT0=1986: Steve Harley & Sarah Brightman
+EXTT1=Tell Me on a Sunday; 1980; Marti Webb
+EXTT2=Phantom; 1987; Cliff Richard & Sarah Brightman
+EXTT3=Evita; 1976; Julie Covington
+EXTT4=Cats; 1980; Paul Nicholas
+EXTT5=Songs & Dance; 1978; Julian Lloyd Webber
+EXTT6=Jesus Christ Superstar; Murray Head
+EXTT7=Cats; 1981; Elain Paige
+EXTT8=Starlight Express; 1984; Ray Shell
+EXTT9=1980; Marti Webb
+EXTT10=Phantom; 1986; Michael Crawford
+EXTT11=Evita; 1976; Barbara Dickson
+EXTT12=Jesus Christ Superstar; Yvonne Elliman
+EXTT13=Requiem; 1985; Sarah Brightman & Paul Miles Kingston
+PLAYORDER=
+.

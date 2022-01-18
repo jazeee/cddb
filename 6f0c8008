@@ -1,0 +1,41 @@
+# xmcd
+#
+# Track frame offsets:
+#     150
+#     20043
+#     47843
+#     75643
+#     99578
+#     146128
+#     169377
+#     207825
+#
+# Disc length: 3202 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: gnudb v1.0.1
+#
+DISCID=6f0c8008
+DTITLE=Loreena McKennitt / The Book of Secrets
+DYEAR=1997
+DGENRE=celtic
+TTITLE0=Prologue
+TTITLE1=The Mummers’ Dance
+TTITLE2=Skellig
+TTITLE3=Marco Polo
+TTITLE4=The Highwayman
+TTITLE5=La Serenissima
+TTITLE6=Night Ride Across the Caucasus
+TTITLE7=Dante’s Prayer
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+PLAYORDER=
+.

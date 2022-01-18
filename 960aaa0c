@@ -1,0 +1,53 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	4482
+#	20865
+#	45336
+#	60457
+#	80034
+#	97237
+#	113226
+#	128787
+#	151615
+#	166952
+#	184626
+#
+# Disc length: 2732 seconds
+#
+# Revision: 10
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 2.23
+#
+DISCID=960aaa0c
+DTITLE=Mannheim Steamroller / The Christmas Angel - A Family Story
+DYEAR=1998
+DGENRE=Christmas
+TTITLE0=Introduction
+TTITLE1=Joy To The World
+TTITLE2=Stille Nacht (Silent Night)
+TTITLE3=The Dream
+TTITLE4=Crystal
+TTITLE5=Carol Of The Bells
+TTITLE6=Messengers Of Christmas
+TTITLE7=Greensleeves
+TTITLE8=Above The Northern Lights
+TTITLE9=Good King Wenceslas
+TTITLE10=Deck The Halls
+TTITLE11=Angels We Have Heard On High
+EXTD= YEAR: 1998
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=
+.

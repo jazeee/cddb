@@ -1,0 +1,44 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	30772
+#	50745
+#	72715
+#	101425
+#	125067
+#	142945
+#	164507
+#	184752
+#
+# Disc length: 2761 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=7e0ac709
+DTITLE=Genesis / Genesis
+DYEAR=1983
+DGENRE=Rock
+TTITLE0=Mama
+TTITLE1=That's All
+TTITLE2=Home By The Sea
+TTITLE3=Second Home By The Sea
+TTITLE4=Illegal Alien
+TTITLE5=Taking It All Too Hard
+TTITLE6=Just A Job To Do
+TTITLE7=Silver Rainbow
+TTITLE8=It's Gonna Get Better
+EXTD= YEAR: 1983
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+PLAYORDER=
+.

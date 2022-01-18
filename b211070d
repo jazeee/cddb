@@ -1,0 +1,57 @@
+# xmcd CD database file
+# Copyright (C) 1996 Ti Kan
+#
+# Track frame offsets:
+# 	183
+# 	22075
+# 	45785
+# 	63345
+# 	76488
+# 	112145
+# 	129325
+# 	148735
+# 	168305
+# 	181370
+# 	211943
+# 	234413
+# 	252493
+#
+# Disc length: 4361 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: DiscPlay 3.4.1
+#
+DISCID=b211070d
+DTITLE=Fleetwood Mac / Roots Live In Concert
+DYEAR=
+DGENRE=
+TTITLE0=Madison Blues
+TTITLE1=Sandy Mary
+TTITLE2=Stranger Blues
+TTITLE3=Great Balls of Fire
+TTITLE4=Jenny Jenny
+TTITLE5=Got To Move
+TTITLE6=Oh Baby
+TTITLE7=Teenage Darling
+TTITLE8=Loving Kind
+TTITLE9=Tutti Frutti
+TTITLE10=Keep A Knocking
+TTITLE11=Red Hot Momma
+TTITLE12=The Green Manalishi
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+PLAYORDER=
+.

@@ -1,0 +1,68 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18132
+#	41170
+#	57450
+#	68767
+#	100565
+#	111627
+#	132905
+#	147560
+#	181605
+#	211162
+#	228110
+#	245037
+#	262397
+#	279872
+#	307332
+#	323222
+#
+# Disc length: 4660 seconds
+#
+# Revision: 14
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.70beta2
+#
+DISCID=00123211,02123311
+DTITLE=Jethro Tull / A Little Light Music
+DYEAR=1992
+DGENRE=Rock
+TTITLE0=Someday The Sun Won't Shine For You
+TTITLE1=Living In The Past
+TTITLE2=Life Is A Long Song
+TTITLE3=Under Wraps
+TTITLE4=Rocks On The Road
+TTITLE5=Nursie
+TTITLE6=Too Old To Rock And Roll, Too Young To Die
+TTITLE7=One White Duck
+TTITLE8=A New Day Yesterday
+TTITLE9=John Barleycorn
+TTITLE10=Look Into The Sun
+TTITLE11=A Christmas Song
+TTITLE12=From A Dead Beat To An Old Greaser
+TTITLE13=This Is Not Love
+TTITLE14=Bourée
+TTITLE15=Pussy Willow
+TTITLE16=Locomotive Breath
+EXTD= YEAR: 1992
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=
+.

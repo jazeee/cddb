@@ -1,0 +1,48 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	15242
+#	31055
+#	47552
+#	63332
+#	79437
+#	95552
+#	113220
+#	127662
+#	144062
+#
+# Disc length: 2115 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Beta1
+#
+DISCID=6f08410a
+DTITLE=Jimmy Ray / Jimmy Ray
+DYEAR=1997
+DGENRE=Rock
+TTITLE0=Are You Jimmy Ray?
+TTITLE1=Goin' To Vegas
+TTITLE2=I Got Rolled
+TTITLE3=Daddy's Got A Gun
+TTITLE4=Way Low
+TTITLE5=Look Inside For Love
+TTITLE6=Trippin On Baby Blue
+TTITLE7=Sex For Beginners
+TTITLE8=Let It Go Go
+TTITLE9=Free At Last
+EXTD= YEAR: 1997 ID3G:  17
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+PLAYORDER=
+.

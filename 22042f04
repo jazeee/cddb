@@ -1,0 +1,30 @@
+# xmcd CD database file
+# Copyright (C) 1995-1998 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	20370
+#	38990
+#	64045
+#
+# Disc length: 1060 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.30
+#
+DISCID=2b042204
+DTITLE=Perishment
+DYEAR=2008
+DGENRE=Thrash Metal
+TTITLE0=Mass Sedition
+TTITLE1=Cult of Disaster
+TTITLE2=Deeds of Iniquity
+TTITLE3=Reduced to Ashes
+EXTD=\n\nYEAR: 2008  ID3G:  17
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+PLAYORDER=
+.

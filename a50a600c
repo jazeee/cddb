@@ -1,0 +1,53 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	182
+#	14585
+#	29415
+#	47245
+#	65212
+#	83335
+#	100207
+#	114740
+#	133850
+#	147342
+#	162917
+#	182265
+#
+# Disc length: 2658 seconds
+#
+# Revision: 4
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=a50a600c
+DTITLE=Jill Sobule / Jill Sobule
+DYEAR=1995
+DGENRE=Other
+TTITLE0=Good Person Inside
+TTITLE1=Margaret
+TTITLE2=(Theme From) The Girl In The Affair
+TTITLE3=Karen By Night
+TTITLE4=Houdini's Box
+TTITLE5=Trains
+TTITLE6=I Kissed A Girl
+TTITLE7=The Jig Is Up
+TTITLE8=Resistance Song
+TTITLE9=The Couple On The Street
+TTITLE10=Vrbana Bridge
+TTITLE11=Now That I Don't Have You
+EXTD=\nURL: http://www.atlantic-records.com/Artists_Music/index.html?artistID=9 "Atlantic Artists - Jill Sobule" YEAR: 1995
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=
+.

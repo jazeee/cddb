@@ -1,0 +1,69 @@
+# xmcd CD database file
+# Copyright (C) 1995 Ti Kan
+#
+# Track frame offsets:
+#	150
+#	11035
+#	31047
+#	46127
+#	71230
+#	88945
+#	115820
+#	133495
+#	144757
+#	162862
+#	177195
+#	197567
+#	212922
+#	229557
+#	251150
+#	275155
+#	291442
+#
+# Disc length: 4188 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: NotifyCDPlayer(CDDB) 1.05
+#
+DISCID=01105a11
+DTITLE=Louis Armstrong / Live!
+DYEAR=
+DGENRE=
+TTITLE0=When It's Sleepy Time Down South
+TTITLE1=Indiana
+TTITLE2=Mack The Knife
+TTITLE3=Baby, It's Cold Outside
+TTITLE4=Cabaret
+TTITLE5=I'm Confessin' (That I Love You)
+TTITLE6=Someday
+TTITLE7=Hello Dolly
+TTITLE8=Do You Know What It Means to Miss New Orleans?
+TTITLE9=High Society
+TTITLE10=Rockin' Chair
+TTITLE11=Blueberry Hill
+TTITLE12=Basin Street Blues
+TTITLE13=The Gypsy
+TTITLE14=The Faithful Hussar
+TTITLE15=C'Est Si Bon
+TTITLE16=La Vie En Rose
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+PLAYORDER=
+.
