@@ -1,0 +1,51 @@
+# xmcd CD database file
+# Copyright (C) 1993-1998 Ti Kan
+#
+# Track frame offsets:
+#	180
+#	12000
+#	28129
+#	38558
+#	52225
+#	75962
+#	85323
+#	101203
+#	114501
+#	128065
+#	148219
+#
+# Disc length: 2150 seconds
+#
+# Revision: 1
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: QuintessentialCD v1.1 (c) 1998 Paul Quinn
+#
+DISCID=8c08640b
+DTITLE=Zingo Zango Generic Jug Band / Jug Band Music
+DYEAR=
+DGENRE=
+TTITLE0=Moving Day
+TTITLE1=Hesitation Blues
+TTITLE2=San Francisco Bay Blues
+TTITLE3=Cherokee Maid
+TTITLE4=Ain't Misbehavin'
+TTITLE5=Columbus Stockade Blues
+TTITLE6=Ol' Cow-Hand
+TTITLE7=Whoopie Ti Yi Yo
+TTITLE8=Walkin' Stick
+TTITLE9=Cat Came Back
+TTITLE10=Jug Band Music
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+PLAYORDER=
+.
